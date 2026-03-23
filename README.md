@@ -2,7 +2,7 @@
 
 ## Informações gerais
 
-- **Público alvo**: alunos da disciplina de **Sistemas operacionais** do curso de [TADS]() na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
+- **Público alvo**: alunos da disciplina de **Sistemas operacionais** do curso de [TADS](https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **Objetivo**:
   1. Criar 1 Dockerfile de desenvolvimento para uma aplicação web com django
